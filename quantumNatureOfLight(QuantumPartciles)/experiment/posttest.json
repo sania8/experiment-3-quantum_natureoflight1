@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What happens to the width of the single-slit diffraction pattern when the distance between the slit and the screen is increased?",
+      "answers": {
+        "a": "It increases",
+        "b": "It decreases",
+        "c": "Lloyd’s mirror experiment",
+        "d": "Fresnel’s biprism experiment"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. In a single-slit diffraction pattern, what effect does using light with a shorter wavelength have on the pattern's width?",
+      "answers": {
+        "a": "It decreases the width",
+        "b": "It increases the width",
+        "c": "It has no effect on the width",
+        "d": "It depends on the slit width"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What happens to the spacing between adjacent maxima in a single-slit diffraction pattern when the width of the slit is increased?",
+      "answers": {
+        "a": "It increases",
+        "b": "It decreases",
+        "c": " It remains constant",
+        "d": "It depends on the wavelength"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Which factor primarily determines the angle at which the secondary maxima occur in a single-slit diffraction pattern?",
+      "answers": {
+        "a": "Wavelength of the incident light",
+        "b": "Width of the slit",
+        "c": "  Distance between the slit and the screen",
+        "d": "Intensity of the incident light"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What is the condition for the appearance of secondary maxima in a single-slit diffraction pattern?",
+      "answers": {
+        "a": "They occur only for narrow slits",
+        "b": "They occur only for wide slits",
+        "c": " They always occur regardless of slit width",
+        "d": "They never occur"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What is the primary factor that determines the width of a single-slit diffraction pattern?",
+      "answers": {
+        "a": "Wavelength of the incident light",
+        "b": " Width of the slit",
+        "c": "Distance between the slit and the screen",
+        "d": " Intensity of the incident light"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.In a single-slit diffraction pattern, where would you observe the brightest central maximum?",
+      "answers": {
+        "a": "At the center of the screen",
+        "b": "Slightly off-center to the right",
+        "c": "Slightly off-center to the left",
+        "d": "At the edges of the screen"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. How does the width of the single-slit diffraction pattern change when the wavelength of the incident light increases?",
+      "answers": {
+        "a": " It decreases",
+        "b": "It remains constant",
+        "c": " It increases",
+        "d": " It is not affected by the wavelength "
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What is the relationship between the width of the single-slit diffraction pattern and the width of the slit?",
+      "answers": {
+        "a": "They are inversely proportional",
+        "b": "They are directly proportional",
+        "c": "There is no relationship",
+        "d": "The relationship depends on the wavelength"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which of the following statements is true regarding the single-slit diffraction pattern?",
+      "answers": {
+        "a": "The central maximum is always wider than the secondary maxima.",
+        "b": "The central maximum is always narrower than the secondary maxima.",
+        "c": "The central maximum and secondary maxima have the same width.",
+        "d": "The width of the central maximum and secondary maxima depends on the material of the slit."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
